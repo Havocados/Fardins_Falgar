@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# Här har fardin vart
 # Custom for Visual Studio
 *.cs     diff=csharp
 
